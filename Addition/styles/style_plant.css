@@ -1,0 +1,63 @@
+body {background-color: rgb(255, 255, 255);
+    
+    font-family: Open Sans;
+    font-size: 16px;
+    position: relative;
+    height: 100vh;
+    font-weight: 400;
+} 
+.box {
+  padding: 20px;
+  background-color: #273746   ;
+  color: rgb(255, 255, 255);
+}
+.web{  padding: auto;
+  background-color: rgb(179, 255, 102)  ;
+  color: rgb(7, 7, 7);
+                
+            }
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.header {
+  background-color: rgb(179, 255, 102);
+  padding: auto;
+                text-align: center;}
+
+.container {
+  position: relative;
+  max-width: auto;
+  margin: 0 ;
+}
+
+body::-webkit-scrollbar{
+                width: 5px;
+            }
+body::-webkit-scrollbar-track{
+                background-color: lavenderblush;
+            }
+body::-webkit-scrollbar-thumb{
+                background-color: rgb(179, 255, 102);
+            }
+.okok{
+                background-color:  rgb(179, 255, 102);
+            }     
+.img{
+                opacity: 0.5;
+            }     
+.okok section{
+  border-radius: 5px;
+}
+
+.plant input{
+  border-radius: 5px;
+
+}

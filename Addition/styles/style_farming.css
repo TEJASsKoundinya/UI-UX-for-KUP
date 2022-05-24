@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(255, 255, 255);
+    }
+       body::-webkit-scrollbar{
+                width: 5px;
+            }
+            
+            body::-webkit-scrollbar-track{
+                background-color: lavenderblush;
+            }
+            
+             body::-webkit-scrollbar-thumb{
+                background-color: rgb(56, 56, 56);
+            }
+            
+    .responsive {
+  padding: 0 70px;
+  width: auto;
+   
+
+}
+
+@media only screen and (max-width: 1000px) {
+  .responsive {
+    width: auto;
+    margin: 20px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: auto;
+  
+  }
+}
+ div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: center;
+  width: 200px;
+}
+
+div.gallery button{
+  background-color: rgb(243, 247, 247);
+  border-radius: 10px;
+
+}
+
+
+div.gallery:hover {
+  border: 5px solid #777;
+  background-color: rgb(168, 250, 85) ;
+}
+
+div.gallery img {
+  width: 200px;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}   
+ 
+.topnav input[type=text] {
+  float: right;
+  padding: 26px;
+  border: none;
+  margin-top: 25px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: auto;
+    text-align: left;
+    width: auto;
+    margin: 0;
+    padding: 5px;
+  }
+  
+  }
+
+.okok{
+  background-color:rgb(168, 250, 85) ;
+  font-style: italic;
+  border: 1px solid #777;
+
+}  
+
+p .button a{
+  background-color: yellowgreen;
+  
+}  
