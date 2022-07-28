@@ -8,9 +8,11 @@ URL( https://github.com/TEJASsKoundinya/Dis_Identification )
 ![image](https://user-images.githubusercontent.com/77600063/181418980-8d9c6fe6-423c-445a-bc16-01d5783902f8.png)
 ![image](https://user-images.githubusercontent.com/77600063/181418987-8dd0eda3-398c-41cc-865e-e179ae0120ef.png)
 
-SOFTWARE Architecture
+## SOFTWARE Architecture
+
+
 ![image](https://user-images.githubusercontent.com/77600063/181419032-f34e1764-ca92-4ffd-9ef6-b442dff062f9.png)
 ![image](https://user-images.githubusercontent.com/77600063/181419058-acfdf165-0085-4bac-98d1-4eb2e33e2f7e.png)
 
-Classification
+## Classification
 ![image](https://user-images.githubusercontent.com/77600063/181419091-85c0206c-235c-4698-a11c-3fc09edf4df4.png)
