@@ -5,13 +5,16 @@ Later the app proposes a suitable solution that is what kind of pesticides or fe
 The AI module is in the Github-link below:
 URL( https://github.com/TEJASsKoundinya/Dis_Identification )
 
+## Hardware Architecture
 ![image](https://user-images.githubusercontent.com/77600063/181418980-8d9c6fe6-423c-445a-bc16-01d5783902f8.png)
 ![image](https://user-images.githubusercontent.com/77600063/181418987-8dd0eda3-398c-41cc-865e-e179ae0120ef.png)
 
 ## SOFTWARE Architecture
-
-
 ![image](https://user-images.githubusercontent.com/77600063/181419032-f34e1764-ca92-4ffd-9ef6-b442dff062f9.png)
+
+## UI/UX
+![image](https://user-images.githubusercontent.com/77600063/181419243-09b8c570-a438-4fbd-ba0d-8ff9a359a216.png)
+
 ![image](https://user-images.githubusercontent.com/77600063/181419058-acfdf165-0085-4bac-98d1-4eb2e33e2f7e.png)
 
 ## Classification
