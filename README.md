@@ -5,6 +5,9 @@ Later the app proposes a suitable solution that is what kind of pesticides or fe
 The AI module is in the Github-link below:
 URL( https://github.com/TEJASsKoundinya/Dis_Identification )
 
+The UI/UX:
+URL( https://kup.pages.dev/ )
+
 ## Hardware Architecture
 ![image](https://user-images.githubusercontent.com/77600063/181418980-8d9c6fe6-423c-445a-bc16-01d5783902f8.png)
 ![image](https://user-images.githubusercontent.com/77600063/181418987-8dd0eda3-398c-41cc-865e-e179ae0120ef.png)
